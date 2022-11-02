@@ -1,0 +1,22 @@
+@media only screen and (max-width: 600px) {
+  .Vynil {
+    height: 250px;
+    width: 250px;
+  }
+
+  .btn-play {
+    border-left: 45px solid #5f5;
+    border-bottom: 30px solid transparent;
+    border-top: 30px solid transparent;
+  }
+
+  .btn-pause {
+    width: 60px;
+    height: 70px;
+  }
+
+  .set div img {
+    height: 50px;
+    width: auto;
+  }
+}
